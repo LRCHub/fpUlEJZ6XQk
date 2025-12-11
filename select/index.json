@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "質問、恋って何でしょうか?",
+  "base_artist": "MARUMOCHI from HoneyWorks",
+  "createdAt": "2025-12-11T14:32:20.777676Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "質問、恋って何でしょうか? feat.Hanon",
+      "artist": "MARUMOCHI from HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_質問、恋って何でしょうか__feat.Hanon_MARUMOCHI_from_HoneyWorks.txt"
+    }
+  ]
+}
